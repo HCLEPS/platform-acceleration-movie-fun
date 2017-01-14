@@ -58,7 +58,7 @@
 
 <div class="container">
 
-  <h1>Moviefun</h1>
+  <h1>Moviefun V1</h1>
 
   <p>Please select one of the following links:</p>
   <a href="setup.jsp">Setup</a> - Sets up the application with some sample data<br/>
